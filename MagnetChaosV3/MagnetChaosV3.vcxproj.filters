@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Angle">
+      <UniqueIdentifier>{bfee6eb3-b602-4467-8393-4762df9ac9bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Angle\CPP">
+      <UniqueIdentifier>{1c53c846-3b29-4b9b-8f9a-e4f25fff0376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Angle\Headers">
+      <UniqueIdentifier>{a183391d-2a65-449d-bdb3-350dba58cb46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BackIcon">
+      <UniqueIdentifier>{bda1488a-43e1-429c-983a-8fb9d4fda3be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BackIcon\Headers">
+      <UniqueIdentifier>{301396ce-1682-4bd4-a484-88770d0b95d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\BackIcon\CPP">
+      <UniqueIdentifier>{b4eba0ad-d8d8-4731-bf8e-c44559d0d776}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{48b7d8ef-ad7a-4aac-a18f-1a133e804caf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\Headers">
+      <UniqueIdentifier>{b10a3199-d5ed-4b08-8cfb-407d0ac044f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components\CPP">
+      <UniqueIdentifier>{bf1aa011-46d0-4687-8e05-3fcba2634927}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Config">
+      <UniqueIdentifier>{c826a5aa-80fa-4020-94ff-03bf0423a2fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Config\Headers">
+      <UniqueIdentifier>{ec47c799-1fa8-47ac-b018-551b267eb62f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Config\CPP">
+      <UniqueIdentifier>{b7857c0c-94be-4967-91b1-ebf28f06df1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Enums">
+      <UniqueIdentifier>{c3eeddc3-b553-47b5-8fbf-53e814896570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\File">
+      <UniqueIdentifier>{8f2503b3-7cba-429c-8e4a-a15190e3d20f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\File\Headers">
+      <UniqueIdentifier>{8a3e5cdc-75df-4627-bbb6-03115d6dac05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\File\CPP">
+      <UniqueIdentifier>{2dddef46-8e51-439c-ae0a-02956f5f6356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Frames">
+      <UniqueIdentifier>{03720852-95d0-42a4-8304-92436f611ba2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Frames\Headers">
+      <UniqueIdentifier>{107392e7-f4ee-44b9-8f1e-54db7c898cf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Frames\CPP">
+      <UniqueIdentifier>{796813db-2efc-4a9f-9e5f-ef301325e183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items">
+      <UniqueIdentifier>{bf1023a0-fb5d-4db1-94dc-b87bf1b8f8ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items\CPP">
+      <UniqueIdentifier>{5f1a412f-0639-4eea-abdf-8bc57ad9f354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Items\Headers">
+      <UniqueIdentifier>{acc65fc7-8fec-4571-98f8-53fd02553476}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Key">
+      <UniqueIdentifier>{5ce50762-99b5-4d59-8333-1612ec949a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Key\Headers">
+      <UniqueIdentifier>{2fd7312b-8eba-4bb5-b98f-92522dd40f7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Key\CPP">
+      <UniqueIdentifier>{3e870828-0945-407a-b3c0-3e1c80757417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LoadingScreen">
+      <UniqueIdentifier>{6ad55a7d-896d-40fd-834f-8b2f9144638b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LoadingScreen\CPP">
+      <UniqueIdentifier>{1a000a12-9125-40d2-a9ff-3993594d3d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LoadingScreen\Headers">
+      <UniqueIdentifier>{b519ae73-5860-4658-b5cf-e101f2376a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MagneticField">
+      <UniqueIdentifier>{161efdab-bf69-47bf-86b9-5fa1a6143936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MagneticField\CPP">
+      <UniqueIdentifier>{ccca9333-f740-49ad-b821-17a5bfd5c874}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MagneticField\Headers">
+      <UniqueIdentifier>{0893a471-6900-474f-9eba-b6efeed2b4f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Methods">
+      <UniqueIdentifier>{61e42391-ff88-4d47-b1e4-2c34260678ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Methods\CPP">
+      <UniqueIdentifier>{df52fb71-cf88-42f3-9eb8-94e0ce7113dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Methods\Headers">
+      <UniqueIdentifier>{8f10a605-ba03-4a61-9ff6-39a29e7ae2e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MovingObjects">
+      <UniqueIdentifier>{5c2be66d-b3e9-40dc-881f-f7b1ab5a737e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MovingObjects\CPP">
+      <UniqueIdentifier>{b2fe96b4-a8f1-4779-949c-10758fff1eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MovingObjects\Headers">
+      <UniqueIdentifier>{d592c077-b081-4bd2-9968-80a416c10cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shapes">
+      <UniqueIdentifier>{dc5a1d8d-c525-4c97-8796-8725f086b0fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shapes\Headers">
+      <UniqueIdentifier>{fb29f3ba-ddb4-4ef2-b66e-fd3bcd7e6198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shapes\CPP">
+      <UniqueIdentifier>{caa4150c-5614-44a3-a499-6ab17dc31beb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserInput">
+      <UniqueIdentifier>{2dbc6227-c1d7-44fb-9826-6500f0462223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserInput\CPP">
+      <UniqueIdentifier>{c17fa0b3-1ecb-4b30-9abb-f4f64b9e29e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserInput\Headers">
+      <UniqueIdentifier>{8686d13a-f378-4092-a427-daa74f832d4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Video">
+      <UniqueIdentifier>{313d29e8-40bd-4caa-9af5-e6e983ac247d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Video\CPP">
+      <UniqueIdentifier>{587835fe-4e3a-4849-9cda-882326da1a23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Video\Headers">
+      <UniqueIdentifier>{dd79d0e1-e826-49ff-bc4e-033d4a0c22d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AngleMethods.cpp">
+      <Filter>Header Files\Angle\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="BackIconMethods.cpp">
+      <Filter>Header Files\BackIcon\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Header Files\Components\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Header Files\Components\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Header Files\Config\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="FileMethods.cpp">
+      <Filter>Header Files\File\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlsFrameMethods.cpp">
+      <Filter>Header Files\Frames\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameMethods.cpp">
+      <Filter>Header Files\Frames\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrameMethods.cpp">
+      <Filter>Header Files\Frames\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="StartFrameMethods.cpp">
+      <Filter>Header Files\Frames\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="TutorialFrameMethods.cpp">
+      <Filter>Header Files\Frames\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="BarMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlItemMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CurvilinearTriangleMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthItemMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItemMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="ShiftItemMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UpgradeItemMethods.cpp">
+      <Filter>Header Files\Items\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardKeyMethods.cpp">
+      <Filter>Header Files\Key\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMethods.cpp">
+      <Filter>Header Files\Key\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MouseKeyMethods.cpp">
+      <Filter>Header Files\Key\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>Header Files\LoadingScreen\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MagneticFieldMethods.cpp">
+      <Filter>Header Files\MagneticField\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Methods.cpp">
+      <Filter>Header Files\Methods\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockMethods.cpp">
+      <Filter>Header Files\MovingObjects\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Bot.cpp">
+      <Filter>Header Files\MovingObjects\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MagnetMethods.cpp">
+      <Filter>Header Files\MovingObjects\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingObjectMethods.cpp">
+      <Filter>Header Files\MovingObjects\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="DimensionMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="PointMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="RotatedRectangleMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleMethods.cpp">
+      <Filter>Header Files\Shapes\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInputMethods.cpp">
+      <Filter>Header Files\UserInput\CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Video.cpp">
+      <Filter>Header Files\Video\CPP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Angle.h">
+      <Filter>Header Files\Angle\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BackIcon.h">
+      <Filter>Header Files\BackIcon\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\Components\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Header Files\Components\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files\Config\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockType.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockState.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Corner.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Navigation.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="File.h">
+      <Filter>Header Files\File\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlsFrame.h">
+      <Filter>Header Files\Frames\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>Header Files\Frames\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrame.h">
+      <Filter>Header Files\Frames\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StartFrame.h">
+      <Filter>Header Files\Frames\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TutorialFrame.h">
+      <Filter>Header Files\Frames\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Bar.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlItem.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CurvilinearTriangle.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthItem.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UpgradeItem.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardKey.h">
+      <Filter>Header Files\Key\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Key.h">
+      <Filter>Header Files\Key\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MouseKey.h">
+      <Filter>Header Files\Key\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.h">
+      <Filter>Header Files\LoadingScreen\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MagneticField.h">
+      <Filter>Header Files\MagneticField\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Methods.h">
+      <Filter>Header Files\Methods\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Bot.h">
+      <Filter>Header Files\MovingObjects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>Header Files\MovingObjects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Magnet.h">
+      <Filter>Header Files\MovingObjects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingObject.h">
+      <Filter>Header Files\MovingObjects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Dimension.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="RotatedRectangle.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInput.h">
+      <Filter>Header Files\UserInput\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Video.h">
+      <Filter>Header Files\Video\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files\Shapes\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ShiftItem.h">
+      <Filter>Header Files\Items\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
